@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Add this to your CSS file */
+.about {
+  font-family: 'Arial', sans-serif; /* Replace 'Arial' with your preferred font */
+}
+
+.about img {
+  max-width: 200px; /* Adjust the max-width to your desired smaller size */
+  height: auto;
+}
+
+.social-icon img {
+  color: red; /* Change color as needed */
+}
+
+

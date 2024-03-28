@@ -1,0 +1,17 @@
+/* Custom styles */
+.container {
+    margin-top: 20px;
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+/* Override Bootstrap classes */
+.navbar {
+    background-color: #343a40 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff !important;
+}
